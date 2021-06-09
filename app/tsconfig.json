@@ -1,5 +1,7 @@
 {
   "compilerOptions": {
+    "composite": true,
+
     "paths": {
       "shared/*": ["../shared/*"]
     }
